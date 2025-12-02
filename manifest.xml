@@ -107,8 +107,8 @@
       <bt:Urls>
         <!--<bt:Url id="residFunctionFile" DefaultValue="https://teams.microsoft.com/v2/"/>-->
 
-        <bt:Url id="Commands.Url" DefaultValue="https://luminkhin.github.io/OnlineMeetingReserveAIO/commands.html"/>
-        <bt:Url id="Taskpane.Url" DefaultValue="https://luminkhin.github.io/OnlineMeetingReserveAIO/taskpane.html"/>
+        <bt:Url id="Commands.Url" DefaultValue="https://luminkhin.github.io/OnlineMeetingReserveAIO/src/commands/commands.html"/>
+        <bt:Url id="Taskpane.Url" DefaultValue="https://luminkhin.github.io/OnlineMeetingReserveAIO/src/taskpane/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="residDescription" DefaultValue="Contoso meeting"/>
